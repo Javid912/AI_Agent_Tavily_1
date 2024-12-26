@@ -13,7 +13,7 @@ Welcome to the **Instagram Lead Generator**! This project is your go-to tool for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/instagram-lead-generator.git
+   git clone https://github.com/javid912/instagram-lead-generator.git
    cd instagram-lead-generator
    ```
 
